@@ -1,4 +1,4 @@
-numero = 7
+numero = 20
 
 if (numero % 2 === 0) {
   console.log("par");
